@@ -2,7 +2,7 @@
 这个网站用于显示最新的域名 请星标或收藏网页
 
 最新域名:
-https://flexlinex.com
+https://flexline0.com
 
 备用域名:
 https://flexline.xyz
