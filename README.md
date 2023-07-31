@@ -11,5 +11,5 @@ https://flexline.xyz
 https://FlexLineX.com
 
 以上方法均失效时, 可联系管理员邮箱
-flexline@pm.me
+flexline@protonmail.com
 
