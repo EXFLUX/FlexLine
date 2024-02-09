@@ -1,14 +1,15 @@
 # FlexLine | EXFLUX 信息更新
-这个网站用于显示最新的域名 请星标或收藏网页
+**这个网站用于显示最新的域名 请星标或收藏网页**
+
 
 ## 最新域名
 最新域名:
 
-https://flexline0.com (正常)
+https://flexline0.com (疑似被污染)
 
 https://flexline1.com (疑似被污染)
 
-https://flexline2.com (20231105新增)
+https://flexline2.com (正常)
 
 备用域名:
 https://flexline.xyz
