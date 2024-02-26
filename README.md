@@ -5,11 +5,15 @@
 ## 最新域名
 最新域名:
 
-https://flexline0.com (疑似被污染)
+https://flexline3.com
 
-https://flexline1.com (疑似被污染)
+历史域名:
 
-https://flexline2.com (正常)
+https://flexline0.com (已被SNI墙, 20240226确认)
+
+https://flexline1.com (已被SNI墙)
+
+https://flexline2.com (已被SNI墙)
 
 备用域名:
 https://flexline.xyz
